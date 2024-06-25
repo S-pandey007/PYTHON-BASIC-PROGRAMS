@@ -6,8 +6,6 @@ This repository contains a collection of basic Python programs and over 50 pract
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contents](#contents)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -69,6 +67,6 @@ The repository is organized into the following sections:
 
 ## Contact
 
-S-pandey007 - [@07shubhampandey](https://x.com/07shubhampandey) - your-shubhampandey8663@gmail.
+S-pandey007 - [@07shubhampandey](https://x.com/07shubhampandey) - shubhampandey8663@gmail.
 
 Project Link: [https://github.com/S-pandey007/python-basics-and-practice-problems](https://github.com/S-pandey007/python-basics-and-practice-problems)
