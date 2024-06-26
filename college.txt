@@ -1,0 +1,3 @@
+college_name:SIMCA
+contact:9874563211
+address:narhe pune
